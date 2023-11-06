@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "267c660316ac869d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dec12881ebfc3d83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82f905d938fccb76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端入门/HTML/HTML渲染/3.回流（reflow）与重绘（repaint）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a92b06281ec5208a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e6bd6bdb20062e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee1893bdaa214433",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52baa230348b80be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80bca58d7d651cc9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eaf35c7a88e1c758",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5ae330c7c747aa1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e701856f6f567fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "前端入门/HTML/HTML渲染/3.回流（reflow）与重绘（repaint）.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72edc633c2f78390",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "前端入门/HTML/HTML渲染/3.回流（reflow）与重绘（repaint）.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8ef6391dd90b3c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67aaee76ce70755e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "前端入门/HTML/HTML渲染/3.回流（reflow）与重绘（repaint）.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ee1893bdaa214433",
+  "lastOpenFiles": [
+    "前端入门/HTML/HTML渲染/2.FOUC（Flash of Unstyle Content）.md",
+    "前端入门/HTML/HTML渲染/3.回流（reflow）与重绘（repaint）.md",
+    "前端入门/HTML/HTML渲染/1.HTML渲染过程.md",
+    "前端入门/HTML/HTML标签/HTML元素.md",
+    "前端入门/HTML/HTML渲染",
+    "前端入门/HTML/HTML标签/HTML语义化.md",
+    "前端入门/HTML/HTML标签",
+    "前端入门/HTML",
+    "前端入门",
+    "前端入门/HTML/HTML5 新特性.md",
+    "未确认 49353.crdownload",
+    "未确认 899372.crdownload",
+    "前端入门/HTML/HTML标签/文档声明 & meta标签.md",
+    "未确认 728752.crdownload",
+    "未确认 748774.crdownload",
+    "未确认 593497.crdownload",
+    "未确认 595636.crdownload",
+    "🌟高频整理/6.Vue「WIP」.md",
+    "🌟高频整理/7.其他.md",
+    "🌟高频整理/5.ES6.md",
+    "🌟高频整理/4.JS.md",
+    "🌟高频整理/2.CSS.md",
+    "🌟高频整理/1.基础「WIP」.md",
+    "README.md",
+    "fe-skill-tree/README.md"
+  ]
+}
