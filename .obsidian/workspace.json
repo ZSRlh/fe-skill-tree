@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端入门/CSS/0.实例/实现半圆.md",
+                "file": "前端入门/CSS/2.CSS选择器/CSS选择器详解.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端入门/CSS/0.实例/实现半圆.md",
+                "file": "前端入门/CSS/2.CSS选择器/CSS选择器详解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端入门/CSS/0.实例/实现半圆.md",
+                "file": "前端入门/CSS/2.CSS选择器/CSS选择器详解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端入门/CSS/0.实例/实现半圆.md"
+                "file": "前端入门/CSS/2.CSS选择器/CSS选择器详解.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "82f905d938fccb76",
   "lastOpenFiles": [
+    "前端入门/CSS/2.CSS选择器/CSS选择器.md",
+    "前端入门/CSS/1.值｜单位/值、单位.md",
+    "前端入门/CSS/2.CSS选择器/CSS选择器详解.md",
+    "前端入门/CSS/0.实例/实现半圆.md",
     "前端入门/CSS/0.实例/三栏布局.md",
     "前端入门/CSS/0.实例/三角形.md",
     "前端入门/CSS/0.实例/两栏布局.md",
@@ -156,7 +160,6 @@
     "前端入门/CSS/0.实例/未确认 805237.crdownload",
     "前端入门/CSS/0.实例/未确认 528805.crdownload",
     "前端入门/CSS/0.实例/未确认 840875.crdownload",
-    "前端入门/CSS/0.实例/实现半圆.md",
     "前端入门/CSS/0.实例/未确认 739253.crdownload",
     "前端入门/CSS/0.实例/视差滚动效果.md",
     "前端入门/CSS/0.实例/未确认 776665.crdownload",
@@ -180,9 +183,6 @@
     "前端入门/CSS/4.宽高和边距/外边距折叠.md",
     "前端入门/CSS/5.浮动和定位/BFC（Block Formatting Context）.md",
     "前端入门/CSS/5.浮动和定位/浮动.md",
-    "前端入门/CSS/5.浮动和定位/文档流和文本流.md",
-    "前端入门/CSS/4.宽高和边距/盒模型.md",
-    "前端入门/CSS/3.文字和字体/文本样式.md",
-    "前端入门/CSS/3.文字和字体/自定义图标字体.md"
+    "前端入门/CSS/5.浮动和定位/文档流和文本流.md"
   ]
 }
